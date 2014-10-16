@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cnw:home|Door43 (cnw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnw|d43-cnw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnw/archive/master.zip|d43-cnw.zip]]
+
+**Recent Changes**
+{{changes>ns = cnw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cnw|Ethnologue data]]
+
